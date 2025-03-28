@@ -7,6 +7,8 @@ Trainity Data Analytics Live Project Certificate
     <img src="https://github.com/RashidhaBegum/Professional-Portfolio/blob/main/Certifications/images/Trainity%20Data%20Analytics%20Live%20Project%20Certificate.jpg?raw=true" alt="Trainity Data Analytics Certificate" style="width: 300px; height: auto;">
 </a>
 
+Click on the Above image to view the PDF Version of the certificate 
+
 Issuing Organization: Trainity
 
 Certification Title : Live Project Certificate
