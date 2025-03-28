@@ -3,4 +3,4 @@ This Page showcases my certifications,demonstrating my skills and knowledge in t
 
 Trainity Data Analytics Live Project Certificate 
 
-![certificate Image](https://github.com/RashidhaBegum/Professional-Portfolio/blob/13ec87f881f3b85da2856bd3370946aa84577a7a/Certifications/images/Trainity_Data_Analytics_Live_Project_Certificate.jpg)
+<img src="Certifications/images/Trainity_8_weeks_Data_Analytics_Specialization_Training_Certificate.jpg" alt="Certificate Image" width="600">
