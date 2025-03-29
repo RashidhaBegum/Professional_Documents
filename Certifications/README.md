@@ -21,9 +21,9 @@ Certificate ID : 101204
 
 Description :
 
-- This Certificate validates the completion of a Data Analytics LIVE project based on analysis of user data of a social media platform. 
+- This Certificate validates the completion of a Data Analytics LIVE project based on analysis of user data of a social media platform.
 
-- This project consisted of two distinct components: a Data Analytics Process project and an Instagram User Analytics project. 
+  This project consisted of two distinct components: a Data Analytics Process project and an Instagram User Analytics project. 
 
 - These components demonstrated proficiency in end-to-end data analysis process workflows and the appilication of database querying for data extraction and analysis. 
 
