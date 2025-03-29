@@ -4,7 +4,7 @@ This Page showcases my certifications,demonstrating my skills and knowledge in t
 Trainity Data Analytics Live Project Certificate 
 
 <a href="https://drive.google.com/file/d/1a-uPf8tHbXW2SGZI3ff8ypH6PkwtY0_5/view?usp=sharing" target="_blank">
-    <img src="https://github.com/RashidhaBegum/Professional-Portfolio/blob/main/Certifications/images/Trainity%20Data%20Analytics%20Live%20Project%20Certificate.jpg?raw=true" alt="Trainity Data Analytics Certificate" style="width: 300px; height: auto;">
+    <img src="https://github.com/RashidhaBegum/Professional-Portfolio/blob/main/Certifications/images/Trainity%20Data%20Analytics%20Live%20Project%20Certificate.jpg?raw=true" alt="Trainity Data Analytics Live Project Certificate" style="width: 300px; height: auto;">
 </a>
 
 Click on the Above image to view the PDF Version of the certificate 
@@ -46,5 +46,5 @@ Tools & Technologies Used:
 Trainity 8 weeks Data Analytics Specialization Training
 
 <a href="https://drive.google.com/file/d/1m35fdfIHbVC4UYnuMUzWy-h7Bfdr1S5U/view?usp=sharing">
-    <img src="https://github.com/RashidhaBegum/Professional-Portfolio/blob/main/Certifications/images/Trainity%20Data%20Analytics%20Live%20Project%20Certificate.jpg?raw=true" alt="Trainity Data Analytics Certificate" style="width: 300px; height: auto;">
+    <img src="https://github.com/RashidhaBegum/Professional-Portfolio/blob/main/Certifications/images/Trainity%208%20weeks%20Data%20Analytics%20Specialization%20Training%20Certificate.jpg?raw=true" alt="Trainity 8 weeks Data Analytics Specialization Training Certificate" style="width: 300px; height: auto;">
 </a>
