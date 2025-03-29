@@ -43,8 +43,43 @@ Tools & Technologies Used:
 - Relational Databases
 - Database query tools
 
-Trainity 8 weeks Data Analytics Specialization Training
+Trainity 8 weeks Data Analytics Specialization Training Certificate
 
 <a href="https://drive.google.com/file/d/1m35fdfIHbVC4UYnuMUzWy-h7Bfdr1S5U/view?usp=sharing">
-    <img src="https://github.com/RashidhaBegum/Professional-Portfolio/blob/main/Certifications/images/Trainity%208%20weeks%20Data%20Analytics%20Specialization%20Training%20Certificate.jpg?raw=true" alt="Trainity 8 weeks Data Analytics Specialization Training Certificate" style="width: 300px; height: auto;">
+    <img src="https://github.com/RashidhaBegum/Professional-Portfolio/blob/main/Certifications/images/Trainity%208%20weeks%20Data%20Analytics%20Specialization%20Training%20Certificate%20.jpg?raw=true" alt="Trainity 8 weeks Data Analytics Specialization Training Certificate" style="width: 300px; height: auto;">
 </a>
+
+Click on the Above image to view the PDF Version of the certificate
+
+Issuing Organizaion : Trainity
+
+Certification Title : Trainity 8 weeks Data Analytics Specialization Training Certificate 
+
+Projects Completed : Operation Metric Analytics & Hiring Process Analytics
+
+Date Completed : 30-12-2024
+
+Certificate ID : 101204
+
+Description :
+
+- This certificate validates the successful completion of the 8 Weeks Data Analytics Specialization Training. Within this training, I completed the Operation Metric Analytics
+  and Hiring Process Analytics projects. 
+
+- These projects demonstrated proficiency in data extraction and manipulation using database query languages, data cleaning and preprocessing, data visualization and 
+  reporting.
+
+- l applied relevant techniques such as database querying and data visualization tools.
+
+Key Skills Applied:
+
+- Data cleaning and preprocessing.
+- Data visualization and reporting
+- Data collection and organization.
+- Metrics analysis and reporting
+
+Tools & Technologies Used:
+
+- Relational database systems
+- Database query tools
+- Data visualization tools
