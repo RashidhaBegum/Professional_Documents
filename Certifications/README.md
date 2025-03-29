@@ -89,3 +89,33 @@ Trainity Virtual Internship Certificate
 <a href="https://drive.google.com/file/d/1R8AYDc762cT9iKsYrY5I8O0AOfFMd843/view?usp=sharing">
     <img src="https://github.com/RashidhaBegum/Professional-Portfolio/blob/main/Certifications/images/Trainity%20Virtual%20Internship%20Certificate.jpg?raw=true" style="width: 300px; height: auto;">
 </a>
+
+Click on the Above image to view the PDF Version of the certificate 
+
+Issuing Organization : Trainity 
+
+Certification Title : Virtual Internship Certificate
+
+Projects Completed : IMDB Movie Analysis & Bank Loan Case Study
+
+Date Completed : 22-01-2025
+
+Certificate ID : 101204
+
+Description :
+
+- This certificate validates the successful completion of the Data Analytics virtual internship project hosted on the Trainity platform. Within this internship, I completed 
+  two distinct projects: IMDB Movie Analysis and Bank Loan Case Study.
+
+- These projects demonstrated proficiency in data extraction, data cleaning, data visualization, and reporting. 
+
+- I applied relevant techniques such as data preprocessing, exploratory data analysis, data visualization, and statistical analysis
+
+Key Skills Applied:
+- Data extraction and cleaning
+- Exploratory data analysis
+- Data visualization and reporting
+
+Tools & Technologies Used:
+- Relational database systems
+- Data visualization tools
