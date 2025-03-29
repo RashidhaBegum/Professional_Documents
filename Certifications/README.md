@@ -83,3 +83,9 @@ Tools & Technologies Used:
 - Relational database systems
 - Database query tools
 - Data visualization tools
+
+Trainity Virtual Internship Certificate
+
+<a href="https://drive.google.com/file/d/1R8AYDc762cT9iKsYrY5I8O0AOfFMd843/view?usp=sharing">
+    <img src="https://github.com/RashidhaBegum/Professional-Portfolio/blob/main/Certifications/images/Trainity%20Data%20Analytics%20Live%20Project%20Certificate.jpg?raw=true" alt="Trainity Data Analytics Live Project Certificate" style="width: 300px; height: auto;">
+</a>
