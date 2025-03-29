@@ -42,3 +42,9 @@ Key Skills Applied:
 Tools & Technologies Used:
 - Relational Databases
 - Database query tools
+
+Trainity 8 weeks Data Analytics Specialization Training
+
+<a href="https://drive.google.com/file/d/1m35fdfIHbVC4UYnuMUzWy-h7Bfdr1S5U/view?usp=sharing">
+    <img src="https://github.com/RashidhaBegum/Professional-Portfolio/blob/main/Certifications/images/Trainity%20Data%20Analytics%20Live%20Project%20Certificate.jpg?raw=true" alt="Trainity Data Analytics Certificate" style="width: 300px; height: auto;">
+</a>
