@@ -38,14 +38,14 @@ I'm dedicated to using data to unlock potential and create meaningful solutions.
 
 ### 🌟 Get in Touch!
 
-Let's chat! Insights that matter,from the data you have  
+"Let's chat about data that matters and collaborate on impactful,data-driven solutions and analytics projects!"
+
+### 📬 Connect with Me:
 
 <a href="mailto:rashidha.abdul@gmail.com"><img src="https://img.icons8.com/ios-glyphs/64/228BE6/filled-message.png" alt="Message" width="40" height="40" style="margin-right: 20px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="LINK_TO_LINKEDIN"><img src="https://img.icons8.com/ios/64/228BE6/linkedin.png" alt="LinkedIn" width="40" height="40"></a>
 
-Explore my data analytics projects and insights:
-
+### 🌐 Explore My Work:
 - **Portfolio Website**: [Visit Here](LINK_TO_PORTFOLIO_WEBSITE)  
 - **GitHub Data Analytics Repository**: [Explore My Work](https://github.com/RashidhaBegum/Data-Analysis-Portfolio)  
 
-Let’s connect and collaborate on data-driven solutions, insights, and impactful analytics projects!
