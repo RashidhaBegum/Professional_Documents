@@ -46,6 +46,6 @@ Let's chat! Insights that matter,from the data you have
 Explore my data analytics projects and insights:
 
 - **Portfolio Website**: [Visit Here](LINK_TO_PORTFOLIO_WEBSITE)  
-- **GitHub Data Analytics Repository**: [Explore My Work](LINK_TO_DATA_ANALYTICS_REPOSITORY)  
+- **GitHub Data Analytics Repository**: [Explore My Work](https://github.com/RashidhaBegum/Data-Analysis-Portfolio)  
 
 Let’s connect and collaborate on data-driven solutions, insights, and impactful analytics projects!
