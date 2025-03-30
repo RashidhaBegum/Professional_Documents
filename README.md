@@ -37,8 +37,7 @@ In my free time, you can find me exploring new datasets, experimenting with visu
 I'm dedicated to using data to unlock potential and create meaningful solutions. Feel free to explore this collection of documents to learn more about my professional qualifications and achievements!
 
 ### 🌟 Get in Touch!
-
-Let's chat about data that matters and collaborate on impactful,data-driven solutions and analytics projects!
+  Let's chat about data that matters and collaborate on impactful,data-driven solutions and analytics projects!
 
 ### 📬 Connect with Me:
 
@@ -47,5 +46,5 @@ Let's chat about data that matters and collaborate on impactful,data-driven solu
 
 ### 🌐 Explore My Work:
 - **Portfolio Website**: [Visit Here](LINK_TO_PORTFOLIO_WEBSITE)  
-- **GitHub Data Analytics Repository**: [Explore My Work](https://github.com/RashidhaBegum/Data-Analysis-Portfolio)  
+- **Data Analysis Repository**: [Explore My Work](https://github.com/RashidhaBegum/Data-Analysis-Portfolio)  
 
