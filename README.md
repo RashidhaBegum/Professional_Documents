@@ -39,7 +39,7 @@ I'm dedicated to using data to unlock potential and create meaningful solutions.
 ### 🌟 Get in Touch!
   Let's chat about data that matters and collaborate on impactful,data-driven solutions and analytics projects!
 
-### 📬 Connect with Me:
+### Connect with Me:
 
 <a href="mailto:rashidha.abdul@gmail.com"><img src="https://img.icons8.com/ios-glyphs/64/228BE6/filled-message.png" alt="Message" width="40" height="40" style="margin-right: 20px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="LINK_TO_LINKEDIN"><img src="https://img.icons8.com/ios/64/228BE6/linkedin.png" alt="LinkedIn" width="40" height="40"></a>
