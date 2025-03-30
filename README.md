@@ -38,7 +38,7 @@ I'm dedicated to using data to unlock potential and create meaningful solutions.
 
 ### 🌟 Get in Touch!
 
-"Let's chat about data that matters and collaborate on impactful,data-driven solutions and analytics projects!"
+Let's chat about data that matters and collaborate on impactful,data-driven solutions and analytics projects!
 
 ### 📬 Connect with Me:
 
