@@ -47,6 +47,6 @@ I’m open to collaborations and professional inquiries. Feel free to reach out 
 <a href="LINK_TO_MESSAGE"><img src="https://img.icons8.com/ios-glyphs/64/228BE6/filled-message.png" alt="Message" width="24" height="24" style="margin-right: 15px;"></a>
 <a href="LINK_TO_LINKEDIN"><img src="https://img.icons8.com/ios/64/228BE6/linkedin.png" alt="LinkedIn" width="24" height="24"></a>
 
-<a href="tel:+919940674528"><img src="https://img.icons8.com/glyph-neue/64/228BE6/phone.png" alt="Phone" width="40" height="40" style="margin-right: 20px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#"><img src="https://img.icons8.com/glyph-neue/64/228BE6/phone.png" alt="Phone" width="40" height="40" style="margin-right: 20px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:rashidha.abdul@gmail.com"><img src="https://img.icons8.com/ios-glyphs/64/228BE6/filled-message.png" alt="Message" width="40" height="40" style="margin-right: 20px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="LINK_TO_LINKEDIN"><img src="https://img.icons8.com/ios/64/228BE6/linkedin.png" alt="LinkedIn" width="40" height="40"></a>
