@@ -40,13 +40,5 @@ I'm dedicated to using data to unlock potential and create meaningful solutions.
 
 I’m open to collaborations and professional inquiries. Feel free to reach out or connect via:  
 
-[![Phone](https://img.icons8.com/glyph-neue/64/228BE6/phone.png)](LINK_TO_PHONE)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![Message](https://img.icons8.com/ios-glyphs/64/228BE6/filled-message.png)](LINK_TO_MESSAGE)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp  
-[![LinkedIn](https://img.icons8.com/ios/64/228BE6/linkedin.png)](LINK_TO_LINKEDIN)
-
-<a href="LINK_TO_PHONE"><img src="https://img.icons8.com/glyph-neue/64/228BE6/phone.png" alt="Phone" width="24" height="24" style="margin-right: 15px;"></a>
-<a href="LINK_TO_MESSAGE"><img src="https://img.icons8.com/ios-glyphs/64/228BE6/filled-message.png" alt="Message" width="24" height="24" style="margin-right: 15px;"></a>
-<a href="LINK_TO_LINKEDIN"><img src="https://img.icons8.com/ios/64/228BE6/linkedin.png" alt="LinkedIn" width="24" height="24"></a>
-
-<a href="#"><img src="https://img.icons8.com/glyph-neue/64/228BE6/phone.png" alt="Phone" width="40" height="40" style="margin-right: 20px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+91 9940674528
 <a href="mailto:rashidha.abdul@gmail.com"><img src="https://img.icons8.com/ios-glyphs/64/228BE6/filled-message.png" alt="Message" width="40" height="40" style="margin-right: 20px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="LINK_TO_LINKEDIN"><img src="https://img.icons8.com/ios/64/228BE6/linkedin.png" alt="LinkedIn" width="40" height="40"></a>
