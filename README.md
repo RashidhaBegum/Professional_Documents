@@ -7,7 +7,7 @@ Discover my professional journey as a meticulous and versatile individual. This 
 ### 📂 Repository Contents
 
 - **Certifications** :  
-  A curated collection of professional certifications highlighting my continuous learning and skill development.  
+  A curated collection of professional certifications highlighting my continuous learning and skill development.
   _(Includes clickable links and high-quality previews of each certificate.)_
 
 - **LinkedIn Profile Optimization** :  
