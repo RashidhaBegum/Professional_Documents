@@ -6,4 +6,4 @@ This resume is updated regularly to reflect my latest experience.
 
 Click on the JPEG image to open a high-resolution PDF version of my resume.  
 
-![Resume Preview](images/)
+![Resume Preview](images/Resume.jpeg)
